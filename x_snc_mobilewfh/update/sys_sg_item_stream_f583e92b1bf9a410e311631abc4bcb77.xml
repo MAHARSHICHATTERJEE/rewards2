@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="mobilewfh WFH_Manager">7583e92b1bf9a410e311631abc4bcb71</data_item>
+        <interleaved_field/>
+        <name>WFH_Manager Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:13</sys_created_on>
+        <sys_id>f583e92b1bf9a410e311631abc4bcb77</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WFH_Manager Item Stream</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_item_stream_f583e92b1bf9a410e311631abc4bcb77</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-02-02 08:57:42</sys_updated_on>
+        <table>x_snc_wfh_applicat_wfh_manager</table>
+    </sys_sg_item_stream>
+</record_update>

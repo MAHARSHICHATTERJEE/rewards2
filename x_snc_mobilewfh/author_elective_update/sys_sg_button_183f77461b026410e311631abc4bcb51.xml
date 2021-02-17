@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="DELETE">
+        <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>false</auto_redirection>
+        <button_table_field_name/>
+        <cancel_label/>
+        <condition/>
+        <condition_script/>
+        <condition_type>declarative</condition_type>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>record</context>
+        <description/>
+        <destination_alp/>
+        <destination_screen/>
+        <destination_type>screen</destination_type>
+        <external_browser>false</external_browser>
+        <failure_message/>
+        <field_name/>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>attachment uploader</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <preconditions>none</preconditions>
+        <relative_url>true</relative_url>
+        <roles/>
+        <save_signature_before_action_execution>false</save_signature_before_action_execution>
+        <select_current_record>false</select_current_record>
+        <show_acknowledgement>false</show_acknowledgement>
+        <show_confirmation>false</show_confirmation>
+        <show_refresh_on_previous>false</show_refresh_on_previous>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message/>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>877623</sys_created_by>
+        <sys_created_on>2021-02-02 13:10:33</sys_created_on>
+        <sys_id>183f77461b026410e311631abc4bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment uploader</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_button_183f77461b026410e311631abc4bcb51</sys_update_name>
+        <sys_updated_by>877623</sys_updated_by>
+        <sys_updated_on>2021-02-02 13:10:33</sys_updated_on>
+        <table>x_snc_wfh_applicat_wfh_reg</table>
+        <take_value_from_field>false</take_value_from_field>
+        <type>write_back</type>
+        <use_overlay>false</use_overlay>
+        <write_back_action_item display_value="attachment uploader">435e7b061b026410e311631abc4bcbe2</write_back_action_item>
+    </sys_sg_button>
+    <sys_translated_text action="DELETE" query="documentkey=183f77461b026410e311631abc4bcb51"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_sg_button_183f77461b026410e311631abc4bcb51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><button_table_field_name/><cancel_label/><condition/><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>record</context><description/><destination_alp/><destination_screen/><destination_type>screen</destination_type><external_browser>false</external_browser><failure_message/><field_name/><jump_to_previous>false</jump_to_previous><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>attachment uploader</name><phone_number/><phone_type>cellular</phone_type><preconditions>none</preconditions><relative_url>true</relative_url><roles/><save_signature_before_action_execution>false</save_signature_before_action_execution><select_current_record>false</select_current_record><show_acknowledgement>false</show_acknowledgement><show_confirmation>false</show_confirmation><show_refresh_on_previous>false</show_refresh_on_previous><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>877623</sys_created_by><sys_created_on>2021-02-02 13:10:33</sys_created_on><sys_id>183f77461b026410e311631abc4bcb51</sys_id><sys_mod_count>0</sys_mod_count><sys_name>attachment uploader</sys_name><sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package><sys_policy/><sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope><sys_update_name>sys_sg_button_183f77461b026410e311631abc4bcb51</sys_update_name><sys_updated_by>877623</sys_updated_by><sys_updated_on>2021-02-02 13:10:33</sys_updated_on><table>x_snc_wfh_applicat_wfh_reg</table><take_value_from_field>false</take_value_from_field><type>write_back</type><use_overlay>false</use_overlay><write_back_action_item display_value="attachment uploader">435e7b061b026410e311631abc4bcbe2</write_back_action_item></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=183f77461b026410e311631abc4bcb51"/></record_update>]]></payload>
+        <payload_hash>-360118926</payload_hash>
+        <record_name>attachment uploader</record_name>
+        <reverted_from/>
+        <source>8af1e9a71bf9a410e311631abc4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>877623</sys_created_by>
+        <sys_created_on>2021-02-02 13:10:33</sys_created_on>
+        <sys_id>c18fff461b026410e311631abc4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17762ddb8400000001</sys_recorded_at>
+        <sys_updated_by>877623</sys_updated_by>
+        <sys_updated_on>2021-02-02 13:10:33</sys_updated_on>
+        <type>Function</type>
+        <update_guid>c98fff46bd026410310cfe130b061847</update_guid>
+        <update_guid_history>c98fff46bd026410310cfe130b061847:-360118926</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>877623</sys_created_by>
+        <sys_created_on>2021-02-02 13:11:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button">sys_sg_button</sys_db_object>
+        <sys_id>9aeb87c8ce3c4110b46ebe01b8169a40</sys_id>
+        <sys_metadata>183f77461b026410e311631abc4bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment uploader</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_scope_delete display_value="">2b71f47c44f842f48aa3f1e2a9bd8b04</sys_scope_delete>
+        <sys_update_name>sys_sg_button_183f77461b026410e311631abc4bcb51</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_183f77461b026410e311631abc4bcb51">c18fff461b026410e311631abc4bcb48</sys_update_version>
+        <sys_updated_by>877623</sys_updated_by>
+        <sys_updated_on>2021-02-02 13:11:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

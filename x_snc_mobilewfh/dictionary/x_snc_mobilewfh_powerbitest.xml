@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="powerbitest" max_length="40" name="x_snc_mobilewfh_powerbitest" sizeclass="121" type="collection">
+        <element label="NDA" max_length="40" name="nda" type="integer"/>
+        <element label="Period" max_length="40" name="period" type="string"/>
+        <element label="portfoliokey" max_length="40" name="portfoliokey" type="integer"/>
+        <element label="PortfolioName" max_length="40" name="portfolioname" type="string"/>
+        <element label="Prod_EV_Between1" max_length="40" name="prod_ev_between1" type="integer"/>
+        <element label="Prod_EV_GreaterThan1" max_length="40" name="prod_ev_greaterthan1" type="integer"/>
+        <element label="Prod_EV_LessThan1" max_length="40" name="prod_ev_lessthan1" type="integer"/>
+    </element>
+</database>

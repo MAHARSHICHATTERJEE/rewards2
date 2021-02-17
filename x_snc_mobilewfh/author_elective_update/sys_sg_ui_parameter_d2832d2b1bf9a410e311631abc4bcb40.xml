@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Edit Button (Approval)">16832d2b1bf9a410e311631abc4bcb34</button>
+        <button_parent_table>sysapproval_approver</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>state_binding</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>State binding</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>state_binding</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:15</sys_created_on>
+        <sys_id>d2832d2b1bf9a410e311631abc4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State binding</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_d2832d2b1bf9a410e311631abc4bcb40</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-25 07:24:15</sys_updated_on>
+        <table_name>sysapproval_approver</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=d2832d2b1bf9a410e311631abc4bcb40"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_sg_ui_parameter_d2832d2b1bf9a410e311631abc4bcb40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit Button (Approval)">16832d2b1bf9a410e311631abc4bcb34</button><button_parent_table>sysapproval_approver</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name>state_binding</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>State binding</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field>state_binding</source_field><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>206703</sys_created_by><sys_created_on>2021-01-25 07:24:15</sys_created_on><sys_id>d2832d2b1bf9a410e311631abc4bcb40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>State binding</sys_name><sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package><sys_policy/><sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope><sys_update_name>sys_sg_ui_parameter_d2832d2b1bf9a410e311631abc4bcb40</sys_update_name><sys_updated_by>206703</sys_updated_by><sys_updated_on>2021-01-25 07:24:15</sys_updated_on><table_name>sysapproval_approver</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=d2832d2b1bf9a410e311631abc4bcb40"/></record_update>]]></payload>
+        <payload_hash>-542128346</payload_hash>
+        <record_name>State binding</record_name>
+        <reverted_from/>
+        <source>8af1e9a71bf9a410e311631abc4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:20</sys_created_on>
+        <sys_id>1f836d2b1bf9a410e311631abc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177386ddd210000001</sys_recorded_at>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-25 07:24:20</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>97836d2b82f9a41019d1ff3c035e464b</update_guid>
+        <update_guid_history>97836d2b82f9a41019d1ff3c035e464b:-542128346</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-30 18:48:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>18fa9c44796a47a085d7d7e0a059b2e1</sys_id>
+        <sys_metadata>d2832d2b1bf9a410e311631abc4bcb40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State binding</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_scope_delete display_value="">2b71f47c44f842f48aa3f1e2a9bd8b04</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_d2832d2b1bf9a410e311631abc4bcb40</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_d2832d2b1bf9a410e311631abc4bcb40">1f836d2b1bf9a410e311631abc4bcb4b</sys_update_version>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-30 18:48:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

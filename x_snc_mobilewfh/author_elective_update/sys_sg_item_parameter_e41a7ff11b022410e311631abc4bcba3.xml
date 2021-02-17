@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>new21</name>
+        <parent>8683e92b1bf9a410e311631abc4bcb9f</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-02-01 18:08:17</sys_created_on>
+        <sys_id>e41a7ff11b022410e311631abc4bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new21</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_e41a7ff11b022410e311631abc4bcba3</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-02-01 18:08:17</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_sg_item_parameter_e41a7ff11b022410e311631abc4bcba3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>new21</name><parent>8683e92b1bf9a410e311631abc4bcb9f</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>206703</sys_created_by><sys_created_on>2021-02-01 18:08:17</sys_created_on><sys_id>e41a7ff11b022410e311631abc4bcba3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>new21</sys_name><sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package><sys_policy/><sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope><sys_update_name>sys_sg_item_parameter_e41a7ff11b022410e311631abc4bcba3</sys_update_name><sys_updated_by>206703</sys_updated_by><sys_updated_on>2021-02-01 18:08:17</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-2125727995</payload_hash>
+        <record_name>new21</record_name>
+        <reverted_from/>
+        <source>8af1e9a71bf9a410e311631abc4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-02-01 18:08:17</sys_created_on>
+        <sys_id>6c1a7ff11b022410e311631abc4bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1775ec7f2050000001</sys_recorded_at>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-02-01 18:08:17</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>641a7ff12102241039a27e009ac758a7</update_guid>
+        <update_guid_history>641a7ff12102241039a27e009ac758a7:-2125727995</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-02-01 18:08:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>1ba5f43d74f94adc9393955671b12a99</sys_id>
+        <sys_metadata>e41a7ff11b022410e311631abc4bcba3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new21</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_scope_delete display_value="">2b71f47c44f842f48aa3f1e2a9bd8b04</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_e41a7ff11b022410e311631abc4bcba3</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_e41a7ff11b022410e311631abc4bcba3">6c1a7ff11b022410e311631abc4bcba7</sys_update_version>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-02-01 18:08:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

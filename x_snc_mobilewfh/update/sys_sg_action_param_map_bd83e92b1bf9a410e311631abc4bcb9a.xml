@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (WFH_Manager)">3583e92b1bf9a410e311631abc4bcb94</button>
+        <item_parameter display_value="WFH_Manager managername">f983e92b1bf9a410e311631abc4bcb91</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:14</sys_created_on>
+        <sys_id>bd83e92b1bf9a410e311631abc4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f983e92b1bf9a410e311631abc4bcb91</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_bd83e92b1bf9a410e311631abc4bcb9a</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-25 07:24:14</sys_updated_on>
+        <ui_parameter display_value="ManagerName">7983e92b1bf9a410e311631abc4bcb96</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
