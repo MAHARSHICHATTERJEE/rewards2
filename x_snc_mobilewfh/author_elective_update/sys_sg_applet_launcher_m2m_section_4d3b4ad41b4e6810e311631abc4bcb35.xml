@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="mobilewfh">f983e92b1bf9a410e311631abc4bcb6d</applet_launcher>
+        <order>50</order>
+        <section display_value="latest">893b4ad41b4e6810e311631abc4bcb32</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-27 18:13:01</sys_created_on>
+        <sys_id>4d3b4ad41b4e6810e311631abc4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_4d3b4ad41b4e6810e311631abc4bcb35</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-27 18:13:01</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</application>
+        <file_path/>
+        <instance_id>59031f1cdbd154d4566750b6f4961925</instance_id>
+        <instance_name>cognizantwfdemo</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_4d3b4ad41b4e6810e311631abc4bcb35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="mobilewfh">f983e92b1bf9a410e311631abc4bcb6d</applet_launcher><order>50</order><section display_value="latest">893b4ad41b4e6810e311631abc4bcb32</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>206703</sys_created_by><sys_created_on>2021-01-27 18:13:01</sys_created_on><sys_id>4d3b4ad41b4e6810e311631abc4bcb35</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package><sys_policy/><sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_4d3b4ad41b4e6810e311631abc4bcb35</sys_update_name><sys_updated_by>206703</sys_updated_by><sys_updated_on>2021-01-27 18:13:01</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-520131552</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8af1e9a71bf9a410e311631abc4bcb92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-27 18:13:01</sys_created_on>
+        <sys_id>813b4ad41b4e6810e311631abc4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177450c79090000001</sys_recorded_at>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-27 18:13:01</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>893b4ad4cf4e68107e7fc3c41fd9ac37</update_guid>
+        <update_guid_history>893b4ad4cf4e68107e7fc3c41fd9ac37:-520131552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-30 19:22:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>17bb372c67a54bc6a42e85f02ada3c89</sys_id>
+        <sys_metadata>4d3b4ad41b4e6810e311631abc4bcb35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_scope_delete display_value="">2b71f47c44f842f48aa3f1e2a9bd8b04</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_4d3b4ad41b4e6810e311631abc4bcb35</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_4d3b4ad41b4e6810e311631abc4bcb35">813b4ad41b4e6810e311631abc4bcb38</sys_update_version>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-30 19:22:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

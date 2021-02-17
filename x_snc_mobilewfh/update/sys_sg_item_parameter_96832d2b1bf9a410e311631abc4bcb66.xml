@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>WFH_User_Allocation sys_id</name>
+        <parent>da832d2b1bf9a410e311631abc4bcb65</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:16</sys_created_on>
+        <sys_id>96832d2b1bf9a410e311631abc4bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WFH_User_Allocation sys_id</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_96832d2b1bf9a410e311631abc4bcb66</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-01-25 07:24:16</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

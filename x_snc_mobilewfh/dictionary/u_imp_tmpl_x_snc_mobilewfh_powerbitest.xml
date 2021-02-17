@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Mobilewfh Powerbitest" max_length="40" name="u_imp_tmpl_x_snc_mobilewfh_powerbitest" sizeclass="363" type="collection">
+        <element attributes="import_attribute_name=BatchID" label="BatchID" max_length="40" name="u_batchid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateText" label="DateText" max_length="40" name="u_datetext" type="glide_date"/>
+        <element attributes="import_attribute_name=NDA" label="NDA" max_length="40" name="u_nda" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Period" label="Period" max_length="40" name="u_period" type="string"/>
+        <element attributes="import_attribute_name=period_Order" label="period_Order" max_length="40" name="u_period_order" type="integer"/>
+        <element attributes="import_attribute_name=PortfolioKey" label="PortfolioKey" max_length="40" name="u_portfoliokey" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PortfolioName" label="PortfolioName" max_length="40" name="u_portfolioname" type="string"/>
+        <element attributes="import_attribute_name=Prod_EV_Between1" label="Prod_EV_Between1" max_length="40" name="u_prod_ev_between1" type="integer"/>
+        <element attributes="import_attribute_name=Prod_EV_GreaterThan1" label="Prod_EV_GreaterThan1" max_length="40" name="u_prod_ev_greaterthan1" type="integer"/>
+        <element attributes="import_attribute_name=Prod_EV_LessThan1" label="Prod_EV_LessThan1" max_length="40" name="u_prod_ev_lessthan1" type="integer"/>
+    </element>
+</database>

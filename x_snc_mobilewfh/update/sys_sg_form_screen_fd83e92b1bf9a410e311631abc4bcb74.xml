@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">e983e92b1bf9a410e311631abc4bcb21</icon>
+        <item_view display_value="WFH_Manager Detail Screen Item View">f183e92b1bf9a410e311631abc4bcb73</item_view>
+        <name>WFH_Managers</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>206703</sys_created_by>
+        <sys_created_on>2021-01-25 07:24:13</sys_created_on>
+        <sys_id>fd83e92b1bf9a410e311631abc4bcb74</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>WFH_Managers</sys_name>
+        <sys_package display_value="mobilewfh" source="x_snc_mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mobilewfh">c2f1e9a71bf9a410e311631abc4bcb90</sys_scope>
+        <sys_update_name>sys_sg_form_screen_fd83e92b1bf9a410e311631abc4bcb74</sys_update_name>
+        <sys_updated_by>206703</sys_updated_by>
+        <sys_updated_on>2021-02-02 21:38:56</sys_updated_on>
+        <table>x_snc_wfh_applicat_wfh_manager</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd83e92b1bf9a410e311631abc4bcb74"/>
+</record_update>
